@@ -1,6 +1,6 @@
 # Career-Ops
 
-[English](README.md) | [Español](README.es.md)
+[English](README.md) | [Español](README.es.md) | [Português (Brasil)](README.pt-BR.md) | [한국어](README.ko-KR.md) | [日本語](README.ja.md) | [Русский](README.ru.md) | [繁體中文](README.zh-TW.md)
 
 <p align="center">
   <a href="https://x.com/santifer"><img src="docs/hero-banner.jpg" alt="Career-Ops — Sistema Multi-Agente de Busqueda de Empleo" width="800"></a>
@@ -20,12 +20,14 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" alt="Playwright">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT">
+  <a href="https://discord.gg/8pRpHETxa4"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
   <br>
   <img src="https://img.shields.io/badge/EN-blue?style=flat" alt="EN">
   <img src="https://img.shields.io/badge/ES-red?style=flat" alt="ES">
   <img src="https://img.shields.io/badge/DE-grey?style=flat" alt="DE">
   <img src="https://img.shields.io/badge/FR-blue?style=flat" alt="FR">
   <img src="https://img.shields.io/badge/PT--BR-green?style=flat" alt="PT-BR">
+  <img src="https://img.shields.io/badge/JA-red?style=flat" alt="JA">
 </p>
 
 ---
@@ -35,6 +37,8 @@
 </p>
 
 <p align="center"><strong>740+ ofertas evaluadas · 100+ CVs personalizados · 1 trabajo soñado conseguido</strong></p>
+
+<p align="center"><a href="https://discord.gg/8pRpHETxa4"><img src="https://img.shields.io/badge/Unete_a_la_comunidad-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a></p>
 
 ## Que es esto
 
@@ -264,5 +268,6 @@ MIT
 [![Website](https://img.shields.io/badge/santifer.io-000?style=for-the-badge&logo=safari&logoColor=white)](https://santifer.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santifer)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/santifer)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8pRpHETxa4)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@santifer.io)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/santifer)
